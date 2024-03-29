@@ -1,0 +1,11 @@
+.card{
+ width: 210px;
+ margin-bottom: 30px;
+ align-items: center;
+ box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;;
+}
+.gif-image {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
